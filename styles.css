@@ -1,0 +1,39 @@
+body {
+    margin: 0 auto;
+}
+
+h1 {
+    margin: 10px 10px; 
+}
+
+h1, 
+h2 {
+    text-align: center;
+}
+
+
+table {
+    border: 5px solid black;
+    margin: 50px auto;
+    width: 60%;
+    
+}
+
+th {
+    font-size: 26px;
+    background-color: rgb(201, 144, 74);
+
+}
+
+td {
+    font-size: 18px;
+    border-top: 5px solid rgb(107, 95, 27);
+    padding: 10px 10px;
+
+}
+
+.code {
+    font-family: monospace;
+    background-color:rgb(233, 184, 22);
+}
+
